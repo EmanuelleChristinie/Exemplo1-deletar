@@ -52,4 +52,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_lower }}:latest
+          tags: ghcr.io/emanuellechristinie/demo-ci:latest
